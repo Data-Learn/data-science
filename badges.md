@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <th>01</th>
-    <td><img src="https://github.com/Data-Learn/data-science/blob/main/img/Screen%20Shot%202021-01-08%20at%202.51.58%20PM.png" alt="drawing" width="150"/></td>
+    <td><img src="https://github.com/Data-Learn/data-science/blob/main/img/Screen%20Shot%202021-01-08%20at%202.51.58%20PM.png"/></td>
     <td>Введение в Аналитику</td>
     <td>Познакомимся с предметом изучения, узнаем кто такой Data Engineer, BI Engineer и что они делает, и какие еще бывают вакансии. Главное, поймем, как дата профессионалы помогают бизнесу быть эффективней и зарабатывать деньги. Рассмотрим типовые архитектуры аналитических решений и проверим навыки знания Microsoft Excel.</td>
     <th><a href="https://datalearn.ru">Сслыка на домашнее задание модуля 1</a></th>
