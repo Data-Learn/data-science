@@ -1,4 +1,4 @@
-# How to: Как установить Jupyter Notebook
+# How to: Как установить Jupyter Notebook.
 
 ## Introduction
 
