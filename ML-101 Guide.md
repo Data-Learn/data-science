@@ -1,4 +1,4 @@
-# Getting start with Machine Learning and Data Science (ML-101)
+# Getting Started with Machine Learning and Data Science (ML-101)
 ## Вход в профессию
 
 [Введение](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
