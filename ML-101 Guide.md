@@ -17,7 +17,7 @@
 
 [Принципы курса](https://github.com/Data-Learn/data-science/new/main#%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
 
-[Сертификаты](https://github.com/Data-Learn/data-science/new/main#%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B)
+[Сертификаты](https://github.com/Data-Learn/data-science/new/main#%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B)  ![in process](https://img.shields.io/badge/-in%20process-yellow)
 
 [Поддержка](https://github.com/Data-Learn/data-science/new/main#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0)
 
