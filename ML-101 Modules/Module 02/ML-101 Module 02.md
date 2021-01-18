@@ -1,7 +1,7 @@
 
 # Модуль 02: Регрессия.
 
-**Второй модуль** состоит из **2 видео**. В процессе этого модуля мы: 
+**Второй модуль** состоит из **2 уроков**. В процессе этого модуля мы: 
 
 •	Рассмотрим Теорию Регрессии и некоторые её Алгоритмы.
 
@@ -11,8 +11,8 @@
 
 •	Как **итог**: у вас будет один **.ipynb файл**, который вы положите себе на **Github**.
 
-## Bидео 01. Regression: Theory, Algorithms, EDA, ML Model Evaluation.
+## Lesson 01. Regression: Theory, Algorithms, EDA, ML Model Evaluation.
 Регрессия: Теория, Алгоритмы, Общий Анализ Данных для Регрессии, Оценка Модели МО.
 
-## Видео 02. LAB 01: Regression (whole process: from dataset extraction to saving predictions).
+## Lesson 02. LAB 01: Regression (whole process: from dataset extraction to saving predictions).
 Практический Кейс 01: Регрессия (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).
