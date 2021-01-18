@@ -118,7 +118,7 @@
  с картинками “что-куда-зачем нажать” (чтобы вы точно пришли из пункта “А” в пункт “Б”).
 
 
-Кто хочет изучить тему **Github** более детально, то на **Data Learn** есть [инструкции](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20get%20git.md) **how_to**. Или вы найдете ссылки [тут](https://github.com/Data-Learn/data-engineering/blob/master/Learning%20resources.md).
+Кто хочет изучить тему **Github** более детально, то на **Data Learn** есть [инструкции](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20get%20git.md) **how_to**. Ещё вы найдете ссылки [тут](https://github.com/Data-Learn/data-engineering/blob/master/Learning%20resources.md).
 
 Для айтишников это знакомый ресурс, там лежит много кода и полезной информации, а так же мы используем его как наше **техническое резюме**. Кто не знает, что такое техническое резюме, сейчас расскажу.
 
