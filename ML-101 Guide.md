@@ -7,9 +7,9 @@
 
 [Модуль 01](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-01)
 
-[Модуль 02](https://github.com/Data-Learn/data-science/new/main#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+[Модуль 02](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-02)
 
-[Модуль 03](https://github.com/Data-Learn/data-science/new/main#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+[Модуль 03](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-03)
 
 [Базовые знания](https://github.com/Data-Learn/data-science/new/main#%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
 
