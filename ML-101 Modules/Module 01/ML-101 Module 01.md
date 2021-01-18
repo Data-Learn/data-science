@@ -1,6 +1,6 @@
-# Модуль 01: Теория Машинного Обучения и Data Science.
+# Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
 
-**Первый модуль** состоит из **4 видео**. В процессе этого модуля мы: 
+**Первый модуль** состоит из **4 уроков**. В процессе этого модуля мы: 
 
 •	Познакомимся с базовой теорией машинного обучения.
 
@@ -13,15 +13,15 @@
 •	Поговорим про создание модели машинного обучения, как наполнить её данными, как настроить её гиперпараметры, как оценить работу модели, как получить и сохранить predictions.
 
 
-## Видео 01. ML, Types of ML, ML Lifecycle.
+## Lesson 01. ML, Types of ML, ML Lifecycle.
 Машинное Обучение, Виды МО, Жизненный Цикл МО. 
 
-## Видео 02. Datasets, Libraries, Data Load, Train-Validation-Test datasets.  
+## Lesson 02. Datasets, Libraries, Data Load, Train-Validation-Test datasets.  
 Датасеты, Библиотеки, Загрузка данных, Train-Validation-Test датасеты.
 
-## Видео 03. Exploratory Data Analysis. 
+## Lesson 03. Exploratory Data Analysis. 
 Общий Анализ Данных.
 
-## Видео 04. Dataset Preparation for ML Model, ML Model, Hyper Parameters, ML Model Evaluation, Predictions.
+## Lesson 04. Dataset Preparation for ML Model, ML Model, Hyper Parameters, ML Model Evaluation, Predictions.
 Подготовка данных для Модели МО, Модели МО, Гиперпараметры, Ответы-Инсайты.
 
