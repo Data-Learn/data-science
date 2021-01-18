@@ -27,7 +27,7 @@
 
 Всем привет! 
 
-Меня зовут [Анастасия Риццо](httpswww.linkedin.com/in/anastasia-r-7b8a0376), я data scientist, а так же автор и преподаватель этого курса.
+Меня зовут [Анастасия Риццо](https://www.linkedin.com/in/anastasia-r-7b8a0376), я data scientist, а так же автор и преподаватель этого курса.
 
 Со многими из вас мы уже знакомы по data science [вебинару](https://www.youtube.com/watch?v=0bejTH1BKWI) на [канале](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) **DataLearn**, а также по [курсу](https://github.com/Data-Learn/data-engineering) **Data Engineering от Дмитрия Аношина**. 
 
