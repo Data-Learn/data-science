@@ -16,8 +16,8 @@
 ## Видео 01. ML, Types of ML, ML Lifecycle.
 Машинное Обучение, Виды МО, Жизненный Цикл МО. 
 
-## Видео 02. Datasets, Libraries, Data Load, Train-Val-Test datasets.  
-Датасеты, Библиотеки, Загрузка данных, Train-Val-Test датасеты.
+## Видео 02. Datasets, Libraries, Data Load, Train-Validation-Test datasets.  
+Датасеты, Библиотеки, Загрузка данных, Train-Validation-Test датасеты.
 
 ## Видео 03. Exploratory Data Analysis. 
 Общий Анализ Данных.
