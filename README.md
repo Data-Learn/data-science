@@ -1,3 +1,5 @@
+![ML-101 banner](https://user-images.githubusercontent.com/55031920/105115016-60449b00-5ac8-11eb-99d9-13121802aefd.jpg)
+
 # Добро пожаловать в Data Learn
 
 **Data Learn** - это [открытый ресурс](https://datalearn.ru/), главная задача которого - научить вас. 
