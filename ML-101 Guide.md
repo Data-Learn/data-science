@@ -1,3 +1,5 @@
+![ML-101 banner](https://user-images.githubusercontent.com/55031920/105115016-60449b00-5ac8-11eb-99d9-13121802aefd.jpg)
+
 # Getting Started with Machine Learning and Data Science (ML-101)
 ## Вход в профессию
 
