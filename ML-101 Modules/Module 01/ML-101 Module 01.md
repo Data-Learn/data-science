@@ -13,8 +13,8 @@
 •	Поговорим про создание модели машинного обучения, как наполнить её данными, как настроить её гиперпараметры, как оценить работу модели, как получить и сохранить predictions.
 
 
-## Lesson 01. ML, Types of ML, ML Lifecycle.
-Машинное Обучение, Виды МО, Жизненный Цикл МО. 
+## Lesson 01. AI: subsets; ML: types + tasks + lifecycle.
+Искусственный Интеллект: подвиды; Машинное Обучение: виды + задачи + жизненный цикл. 
 
 ## Lesson 02. Datasets, Libraries, Data Load, Train-Validation-Test datasets.  
 Датасеты, Библиотеки, Загрузка данных, Train-Validation-Test датасеты.
