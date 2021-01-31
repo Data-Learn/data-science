@@ -297,6 +297,8 @@ https://datalearn.ru/kurs-po-ml-ds
 
 - Во второе окно вставьте этот текст: 
 
+![ШАГ4](https://user-images.githubusercontent.com/55031920/106391663-c4336180-63ee-11eb-9d0e-0082dd11b15e.jpg)
+
 **НАЧАЛО ТЕКСТА:**
 
 ## Lesson 01. AI: subsets; ML: types + tasks + lifecycle.
