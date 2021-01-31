@@ -334,6 +334,6 @@ https://datalearn.ru/kurs-po-ml-ds
 
 ![ШАГ6](https://user-images.githubusercontent.com/55031920/106391943-132dc680-63f0-11eb-8498-9c11b5810bfa.jpg)
 
-- выбираем наш файл с практическим/домашним заданиемб загружаем его и нажимаем зеленую кнопку **Commit changes**.
+- выбираем наш файл с практическим/домашним заданием, загружаем его и нажимаем зеленую кнопку **Commit changes**.
 
 ![ШАГ7](https://user-images.githubusercontent.com/55031920/106391948-20e34c00-63f0-11eb-962c-df84a0fd7561.jpg)
