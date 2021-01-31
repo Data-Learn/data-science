@@ -1,17 +1,26 @@
+# Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
 
-**Курс Getting Started with Machine Learning and Data Science (ML-101)** - [курс](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) от [Анастасии Риццо](https://www.linkedin.com/in/anastasia-r-7b8a0376) о теории Машинного Обучения и Data Science, с понятной теорией и практическими кейсами из реальной жизни.
+**Первый модуль** состоит из **4 уроков**. В процессе этого модуля мы: 
 
-Курс включает в себя 3 модуля: 
+•	Познакомимся с базовой теорией машинного обучения.
 
-**Первый модуль** про теорию Машинного Обучения и Data Science; 
+•	Установим **jupiter notebook**, поговорим про предварительные работы с датасетами, библиотеки, загрузку данных, разные виды датасетов.
 
-**Второй модуль** посвящен Регрессии (теория и 1 практический кейс); 
+•	Разберем EDA (Exploratory Data Analysis) / Общий Анализ Данных, descriptive statistic / описательную статистику, missing values / пропущенные или нулевые значения, numerical & categorical data / числовые и категориальные данные, outliers / выбросы, correlation feature to target / корреляция атрибутов к главному атрибуту, data wrangling and transformation / обработка и трансформация данных.
 
-**Третий модуль** про Классификацию (тоже теория и 2 практических кейса). 
+•	Мы увидим как подготовить датасет для модели машинного обучения: train/test split, overfitting & underfitting / переобучение и недообучение, cross-validation / кросс-валидация.
+
+•	Поговорим про создание модели машинного обучения, как наполнить её данными, как настроить её гиперпараметры, как оценить работу модели, как получить и сохранить predictions.
 
 
-Информация о платформе Data Learn:
-https://datalearn.ru
+## Lesson 01. AI: subsets; ML: types + tasks + lifecycle.
+Искусственный Интеллект: подвиды; Машинное Обучение: виды + задачи + жизненный цикл.
 
-Регистрация на курс ML-101:
-https://datalearn.ru/kurs-po-ml-ds
+## Lesson 02. Datasets, Libraries, Data Load, Train-Validation-Test datasets.  
+Датасеты, Библиотеки, Загрузка данных, Train-Validation-Test датасеты.
+
+## Lesson 03. Exploratory Data Analysis. 
+Общий Анализ Данных.
+
+## Lesson 04. Dataset Preparation for ML Model, ML Model, Hyper Parameters, ML Model Evaluation, Predictions.
+Подготовка данных для Модели МО, Модели МО, Гиперпараметры, Ответы-Инсайты.
