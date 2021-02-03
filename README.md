@@ -65,6 +65,6 @@
 ![img](https://github.com/Data-Learn/data-engineering/blob/master/img/slack%20add%20channel.png)
 
 
-Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Datal Learn** в **Slack**.
+Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Data Learn** в **Slack**.
 
 Перейти к курсу [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
