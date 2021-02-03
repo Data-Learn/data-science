@@ -1,4 +1,4 @@
-Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
+### Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
 Первый модуль состоит из 4 уроков. В процессе этого модуля мы:
 
 • Познакомимся с базовой теорией машинного обучения.
