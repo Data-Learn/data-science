@@ -11,4 +11,4 @@
 
 📌   Поймем разницу между Train, Validation and Test datasets.
 
-
+[**Video Lesson 02**](https://youtu.be/KYeSwj6V150)
