@@ -17,3 +17,4 @@
 ## Lesson 03. LAB 03: Classification type 2 (whole process: from dataset extraction to saving predictions).
 Практический Кейс 03: Классификация вид 2 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).     
 
+
