@@ -1,4 +1,4 @@
-main
+
 **Курс Getting Started with Machine Learning and Data Science (ML-101)** - [курс](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) от [Анастасии Риццо](https://www.linkedin.com/in/anastasia-r-7b8a0376) о теории Машинного Обучения и Data Science, с понятной теорией и практическими кейсами из реальной жизни.
 
 Курс включает в себя 3 модуля: 
@@ -87,4 +87,4 @@ https://datalearn.ru/kurs-po-ml-ds
 Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Data Learn** в **Slack**.
 
 Перейти к курсу [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
-main
+
