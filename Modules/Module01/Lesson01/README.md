@@ -16,5 +16,3 @@
 📌   Какие задачи можно решить с помощью ML (Recommendation, Ranking, Regression, Classification, Clustering, Anomaly Detection);
 
 📌   Что такое Жизненный Цикл ML (ML Lifecycle) и как он работает.
-
-[**Video Lesson 01**](https://youtu.be/Cf_Yys2VHS4)

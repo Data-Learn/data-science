@@ -15,6 +15,4 @@
 ## Lesson 02. LAB 02: Classification type 1 (whole process: from dataset extraction to saving predictions).
 Практический Кейс 02: Классификация вид 1 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).
 ## Lesson 03. LAB 03: Classification type 2 (whole process: from dataset extraction to saving predictions).
-Практический Кейс 03: Классификация вид 2 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).     
-
-
+Практический Кейс 03: Классификация вид 2 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).  
