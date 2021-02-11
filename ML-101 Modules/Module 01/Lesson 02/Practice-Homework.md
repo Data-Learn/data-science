@@ -1,21 +1,20 @@
 # Practice / Практическое задание.
 
-## 1. Install Jupyter Notebook / Установить Jupyter Notebook на свой компьютер/ноутбук.
+ 1. **Install Jupyter Notebook** / Установить Jupyter Notebook на свой компьютер/ноутбук.
 
-## 2. Register on Github / Зарегистрироваться  на  Github:
+ 2. **Register on Github** / Зарегистрироваться  на  Github:
 
 - create an account / создать аккаунт;
 
 - fork a repository / присоединиться к репозиторию курса;
 
-- create all folders and documents / создать все нужные папки и документы.
 
 ## Links how_to / Ссылки на подробную пошаговую инструкцию по выполнению задания:
 
-- Jupyter Notebook
+- **Jupyter Notebook**
 
 https://github.com/Data-Learn/data-science/blob/main/how_to/Jupyter%20Notebook/how_to_Jupyter_Notebook.md
 
-- Github
+- **Github**
 
 https://github.com/Data-Learn/data-science/blob/main/how_to/Github/How_to_Github.md
