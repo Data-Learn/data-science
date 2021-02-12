@@ -16,5 +16,3 @@
 
 ## Lesson 02. LAB 01: Regression (whole process: from dataset extraction to saving predictions).
 Практический Кейс 01: Регрессия (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).
-
-

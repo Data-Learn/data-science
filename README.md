@@ -1,3 +1,4 @@
+
 ![ML-101 banner](https://user-images.githubusercontent.com/55031920/105115016-60449b00-5ac8-11eb-99d9-13121802aefd.jpg)
 
 # Добро пожаловать в Data Learn
@@ -68,3 +69,4 @@
 Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Data Learn** в **Slack**.
 
 Перейти к курсу [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
+
