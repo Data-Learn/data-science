@@ -15,3 +15,5 @@
 📌    Tuning hyper parameters 
 
 📌    Submission of ‘.csv’ file
+
+[**Video Lesson 03**](https://youtu.be/Ypiv_2luYTU)
