@@ -25,3 +25,4 @@
 
 📌    'Train\Test' splitting method
 
+[**Video Lesson 03**](https://youtu.be/S-ZBb4yvxAQ)
