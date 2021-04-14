@@ -4,14 +4,12 @@
 
 •	Изучим Теорию Классификации и некоторые её Алгоритмы.
 
-•	Рассмотрим EDA и сделаем оценку работы модели машинного обучения для Классификации.
-
 •	Как практику, мы сделаем уже два “от и до” практических кейса для разных видов Классификации. 
 
 •	Как **итог**: **2 .ipynb файла** для **Github**.
 
-## Lesson 01. Classification: Theory, Algorithms, EDA, ML Model Evaluation.
-Классификация: Теория, Алгоритмы, Общий Анализ Данных для Классификации, Оценка Модели МО.
+## Lesson 01. Classification: Theory & Algorithms.
+Классификация: Теория и Алгоритмы.
 ## Lesson 02. LAB 02: Classification type 1 (whole process: from dataset extraction to saving predictions).
 Практический Кейс 02: Классификация вид 1 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).
 ## Lesson 03. LAB 03: Classification type 2 (whole process: from dataset extraction to saving predictions).
