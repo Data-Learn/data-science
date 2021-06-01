@@ -16,3 +16,5 @@
 
 📌    Random Forest classifier
 
+[**Video Lesson 01**](https://youtu.be/kFeY1zuGO7o)
+
