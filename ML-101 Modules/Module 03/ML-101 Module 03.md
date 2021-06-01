@@ -4,15 +4,15 @@
 
 •	Изучим Теорию Классификации и некоторые её Алгоритмы.
 
-•	Как практику, мы сделаем уже два “от и до” практических кейса для разных видов Классификации. 
+•	Как практику, мы сделаем уже 3 “от и до” практических кейса для разных видов Классификации. 
 
-•	Как **итог**: **2 .ipynb файла** для **Github**.
+•	Как **итог**: **3 .ipynb файла** для **Github**.
 
 ## Lesson 01. Classification: Theory & Algorithms.
 Классификация: Теория и Алгоритмы.
-## Lesson 02. LAB 02: Classification type 1 (whole process: from dataset extraction to saving predictions).
-Практический Кейс 02: Классификация вид 1 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).
-## Lesson 03. LAB 03: Classification type 2 (whole process: from dataset extraction to saving predictions).
-Практический Кейс 03: Классификация вид 2 (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).     
+## Lesson 02. LAB 02: Binary Classification (whole process: from dataset extraction to saving predictions).
+Практический Кейс 02: Бинарная Классификация (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов; 2 датасета).
+## Lesson 03. LAB 03: Multi-class Classification (whole process: from dataset extraction to saving predictions).
+Практический Кейс 03: Многоклассовая Классификация (весь процесс: от выгрузки датасета до сохранения ответов-инсайтов).     
 
 
