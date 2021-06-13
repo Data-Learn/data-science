@@ -26,6 +26,9 @@
 ## Lesson 03. Exploratory Data Analysis. 
 Общий Анализ Данных.
 
+[**Video Lesson 03**](https://youtu.be/KYeSwj6V150)
+
 ## Lesson 04. Dataset Preparation for ML Model, ML Model, Hyper Parameters, ML Model Evaluation, Predictions.
 Подготовка данных для Модели МО, Модели МО, Гиперпараметры, Ответы-Инсайты.
 
+[**Video Lesson 04**](https://youtu.be/Ypiv_2luYTU)
