@@ -5,4 +5,4 @@
 
 В этом уроке мы сделаем 1 практический классификационный кейс в двух вариантах.
 
-[**Video Tutorial 03**]()
+[**Video Tutorial 03**](https://youtu.be/IQYLfhYsWL8)
