@@ -1,5 +1,7 @@
-## Lesson 01. Classification: Theory and Algorithms
+## Tutorial 01. Classification: Theory and Algorithms
 **Классификация: Теория и Алгоритмы.**
+
+![English](https://img.shields.io/badge/-English-green) In this tutorial, we will go through a Classification theory and some of its algorithms:
 
 В этом уроке мы пройдем немного теории Классификации и некоторые её алгоритмы:
 
@@ -16,5 +18,5 @@
 
 📌    Random Forest classifier
 
-[**Video Lesson 01**](https://youtu.be/kFeY1zuGO7o)
+[**Video Tutorial 01**](https://youtu.be/kFeY1zuGO7o)
 
