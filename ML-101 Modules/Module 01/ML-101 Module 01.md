@@ -1,4 +1,4 @@
-# Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
+# Module 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
 
 ![English](https://img.shields.io/badge/-English-green) The **first module** consists of **4 tutorials**. During this module we will:
 
