@@ -1,9 +1,9 @@
 
 ![ML-101 banner](https://user-images.githubusercontent.com/55031920/105115016-60449b00-5ac8-11eb-99d9-13121802aefd.jpg)
 
-# Добро пожаловать в Data Learn
+# Welcome to Data Learn / Добро пожаловать в Data Learn
 
-**Data Learn** - это [открытый ресурс](https://datalearn.ru/), главная задача которого - научить вас. 
+**Data Learn** is an [open-source educational platform](https://datalearn.ru/) whose main goal is to share technical knowledge / **Data Learn** - это [открытый ресурс](https://datalearn.ru/), главная задача которого - научить вас. 
 
 Так как мы не коммерческая организация, мы очень хотим, чтобы наше время, затраченное на создание материалов, помогло вам. И у нас реальные учителя, которые работали в крупнейших компаниях в разных странах и городах и хотят помочь другим стать чуточку успешней ;)
 
