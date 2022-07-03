@@ -1,7 +1,7 @@
 
 # Module 02: Regression / Регрессия.
 
-The **second module** consists of **2 tutorials**. During this module we will:
+![English](https://img.shields.io/badge/-English-green) The **second module** consists of **2 tutorials**. During this module we will:
 
 • Consider the Theory of Regression and some of its Algorithms.
 
