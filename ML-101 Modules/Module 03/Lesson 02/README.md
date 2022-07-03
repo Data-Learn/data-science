@@ -1,6 +1,7 @@
-## Lesson 02. Binary Classification: Practice.
+## Tutorial 02. Binary Classification: Practice.
 **Бинарная Классификация: Практика.** 
 
+![English](https://img.shields.io/badge/-English-green) In this tutorial, we will make 2 practical classification cases.
 В этом уроке мы сделаем 2 практических классификационных кейса.
 
-[**Video Lesson 02**](https://youtu.be/RUG1PsKyBj8)
+[**Video Tutorial 02**](https://youtu.be/RUG1PsKyBj8)
