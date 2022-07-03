@@ -1,5 +1,19 @@
 # Модуль 01: Theory of Machine Learning and Data Science / Теория Машинного Обучения и Data Science.
 
+![English](https://img.shields.io/badge/-English-green) The **first module** consists of **4 tutorials**. During this module we will:
+
+📌  Get acquainted with the basic theory of machine learning.
+
+📌  Install **jupyter notebook**, talk about preliminary work with datasets, libraries, data loading, different types of datasets.
+
+📌  Analyse EDA (Exploratory Data Analysis), descriptive statistic, missing values, numerical & categorical data, outliers, correlation feature to target, data processing and transformation.
+
+📌  See how to prepare a dataset for a machine learning model: train/test split, overfitting & underfitting, cross-validation.
+
+📌  Talk about creating a machine learning model, how to fill it with data, how to tune its hyperparameters, how to evaluate the performance of the model, how to get and save predictions.
+##
+
+
 **Первый модуль** состоит из **4 уроков**. В процессе этого модуля мы: 
 
 📌   Познакомимся с базовой теорией машинного обучения.
@@ -11,7 +25,7 @@
 📌   Мы увидим как подготовить датасет для модели машинного обучения: train/test split, overfitting & underfitting / переобучение и недообучение, cross-validation / кросс-валидация.
 
 📌   Поговорим про создание модели машинного обучения, как наполнить её данными, как настроить её гиперпараметры, как оценить работу модели, как получить и сохранить predictions.
-
+##
 
 ## Lesson 01. AI: subsets; ML: types + tasks + lifecycle.
 Искусственный Интеллект: подвиды; Машинное Обучение: виды + задачи + жизненный цикл.
