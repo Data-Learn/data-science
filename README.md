@@ -16,7 +16,7 @@
 
 На нашей платформе есть ряд курсов. Со временем их число будет увеличиваться.
 
-![English](https://img.shields.io/badge/-English-green) **Getting Started with Machine Learning and Data Science (ML-101)** - an introductory [course](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) of Machine Learning and Data Science, with theory and practical real life cases by Anastasia Rizzo. 
+![English](https://img.shields.io/badge/-English-green) **Getting Started with Machine Learning and Data Science (ML-101)** - an introductory [course](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) of Machine Learning and Data Science, with theory and practical real life cases by [Anastasia Rizzo](https://github.com/arizzogithub?tab=overview&from=2022-07-01&to=2022-07-03). 
 The course includes 3 modules: 
 Module 01: The theory of Machine Learning and Data Science; 
 Module 02: Regression (theory and practice); 
