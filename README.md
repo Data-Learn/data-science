@@ -27,7 +27,7 @@ The course allows you to experience the Data Scientist profession yourself and i
 
 [**Intro Video**](https://youtu.be/g2azOLGzeNo)
 
-[**Регистрируйтесь на курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
+[**Registration / Регистрируйтесь на курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
 
 
 **Getting Started with Analytics (Data) Engineering (DE-101)** - [курс](https://github.com/Data-Learn/data-engineering) от [Дмитрия Аношина](https://www.linkedin.com/in/dmitryanoshin/) о работе инженером данных и 10+ летний опыт создания аналитических решений в России, Европе, Канаде и США.  Курс включает в себя базовые вещи, такие как Business Intelligence инструменты, базы данных, ETL инструменты, облачные вычисления и многое другое. Даже если у вас нет опыта с данными, то это вам не помешает. Первые несколько модулей будут посвящены основам аналитики и классическим задачам: Business Intelligence (отчетность, визуализация, хранилище данных, SQL, Excel, интеграция данных). Это будет достаточно для профессии BI разработчик, Аналитик и тп. Начиная с 5-6 модуля мы начнем углубляться непосредственно в работу Инженера Данных, опираясь на знания, полученные на начальных этапах.
