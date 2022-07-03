@@ -1,4 +1,4 @@
-![English](https://img.shields.io/badge/-English-green) **Getting Started with Machine Learning and Data Science (ML-101)** - an introductory [course](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) of Machine Learning and Data Science, with theory and practical real life cases by Anastasia Rizzo. 
+![English](https://img.shields.io/badge/-English-green) **Getting Started with Machine Learning and Data Science (ML-101)** - an introductory [course](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md) of Machine Learning and Data Science, with theory and practical real life cases by [Anastasia Rizzo](https://www.linkedin.com/in/anastasia-r-7b8a0376). 
 
 The course includes 3 modules:
 
