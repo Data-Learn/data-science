@@ -9,7 +9,7 @@ Module 02: Regression (theory and practice);
 Module 03: Classification (theory and 2 practical cases).
 
 The course allows you to experience the Data Scientist profession yourself and is especially suitable for those who may be unsure, but are very interested in starting to explore this topic.
-
+##
 
 
 
