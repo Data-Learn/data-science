@@ -45,7 +45,7 @@ The course allows you to experience the Data Scientist profession yourself and i
 
 
 ## Как зарегистрироваться на курсы Data Learn
-1.Bы регистрируетесь на сайте [Data Learn](https://datalearn.ru) или прямо на страницe курсa: [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
+1.Bы регистрируетесь на сайте [Data Learn](https://datalearn.ru) или прямо на страницe курсa [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
 
 2. Вы подаете в телеграмм канал [Data Learn](https://t.me/datalearn_chat/3401) . Вам там ответят на любой вопрос! (Раньше у нас был slack, и он даже еще есть, но талеграмм чат оказался удобней для всех!)
 
