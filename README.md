@@ -45,14 +45,14 @@ The course allows you to experience the Data Scientist profession yourself and i
 
 
 ## Как зарегистрироваться на курсы Data Learn
-1.Bы регистрируетесь на сайте [Data Learn](https://datalearn.ru) или прямо на страницe курсa [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
+1. Bы регистрируетесь на сайте [Data Learn](https://datalearn.ru) или прямо на страницe курсa [**Курс ML-101**](https://datalearn.ru/kurs-po-ml-ds)
 
-2. Вы подаете в телеграмм канал [Data Learn](https://t.me/datalearn_chat/3401) . Вам там ответят на любой вопрос! (Раньше у нас был slack, и он даже еще есть, но талеграмм чат оказался удобней для всех!)
+2. Вы подаете в телеграм канал [Data Learn](https://t.me/datalearn_chat/3401). Вам там ответят на любой вопрос! (Раньше у нас был slack, и он даже еще есть, но талеграм чат оказался удобней для всех!)
 
 3. Пройдите [опрос](https://docs.google.com/forms/d/1PT8B4_dYQH8X2yDu8ju0TOHPXVRtky6LPFAN-J1t5hY/edit?ts=60070d83&gxids=7628), если еще не прошли! Так мы узнаем о вас еще больше!
 
 
 Всем спасибо и до встречи на **курсах** на канале [**Data Learn**](https://www.youtube.com/channel/UCWki7GBUE5lDMJCbn4e1XMg) и в нашем сообществе **Data Learn** в **Telegram**.
 
-Перейти к курсу [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
+Перейти к курсу на GitHub  [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
 
